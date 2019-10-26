@@ -22,4 +22,17 @@ BS
 CA
 Apolo
 
+
+
+Countries
+
+China
+Malaysia
+Denmark
+India
+Japan
+Infonesia
+
+Final cup list
+
 Done with my changes
